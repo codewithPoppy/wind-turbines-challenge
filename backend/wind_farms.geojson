@@ -1,0 +1,2598 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-09T07:39:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "213887675",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "name": "Větrná elektrárna",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+              17.701672,
+              49.3798644
+        ]
+           
+        
+      },
+      "id": "213887675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "610534712",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "105",
+        "name": "Větrná elektrárna Oldřišov",
+        "power": "generator",
+        "rotor:diameter": "90",
+        "source": "MapBox Satellite"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+              17.9660654,
+              50.0045418
+           
+        ]
+      },
+      "id": "610534712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "347345894",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "WKA 3",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2757033,
+          51.6577252
+        ]
+      },
+      "id": "347345894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "347345895",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "WKA 2",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2794674,
+          51.6561179
+        ]
+      },
+      "id": "347345895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "347345899",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "WKA 1",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2854898,
+          51.6540156
+        ]
+      },
+      "id": "347345899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "347345904",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "WKA",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2879808,
+          51.6573828
+        ]
+      },
+      "id": "347345904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "394998172",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "65 m",
+        "manufacturer": "Enercon",
+        "model": "E66",
+        "name": "E70026-04L6",
+        "power": "generator",
+        "ref": "E70026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9635787,
+          51.2042322
+        ]
+      },
+      "id": "394998172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "469317541",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2300 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "120",
+        "height:hub": "98",
+        "manufacturer": "Enercon",
+        "model": "E82 E2/2.3MW",
+        "name": "VTE Vrbice I",
+        "operator": "VTE Vrbice s.r.o.",
+        "power": "generator",
+        "rotor:diameter": "82",
+        "source": "cuzk:km;local knowledge;https://licence.eru.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3690443,
+          49.8323845
+        ]
+      },
+      "id": "469317541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "617579061",
+        "generator:output:electricity": "900 kW",
+        "generator:source": "wind",
+        "name": "PW56",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0750208,
+          52.8220245
+        ]
+      },
+      "id": "617579061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "617579064",
+        "generator:output:electricity": "900 kW",
+        "generator:source": "wind",
+        "name": "PW56",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0721884,
+          52.8187827
+        ]
+      },
+      "id": "617579064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "617581612",
+        "generator:output:electricity": "900 kW",
+        "generator:source": "wind",
+        "name": "PW56",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4211717,
+          52.6067127
+        ]
+      },
+      "id": "617581612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1133803600",
+        "generator:output:electricity": "900 kW",
+        "generator:source": "wind",
+        "name": "PowerWind 56",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8603223,
+          53.0990734
+        ]
+      },
+      "id": "1133803600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1133807703",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "900 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "PowerWind 56",
+        "power": "generator",
+        "source": "MapBox Satellite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3257154,
+          54.2931548
+        ]
+      },
+      "id": "1133807703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1170927116",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "name": "Mentos",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8365424,
+          51.9629655
+        ]
+      },
+      "id": "1170927116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1280683311",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "Fridolin",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7332362,
+          51.1863021
+        ]
+      },
+      "id": "1280683311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1290043225",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "900 kW",
+        "generator:source": "wind",
+        "name": "PowerWind 56",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8570929,
+          52.3039395
+        ]
+      },
+      "id": "1290043225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1324138244",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "315 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "55",
+        "height:hub": "40",
+        "manufacturer": "Vítkovice/ENERGOVARS",
+        "manufacturer:type": "EWT 315-1",
+        "name": "VTE Mravenečník",
+        "operational_status": "out of operation",
+        "operator": "BENOCO, s.r.o.",
+        "power": "generator",
+        "rotor:diameter": "30",
+        "year_of_construction": "1995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1442643,
+          50.085597
+        ]
+      },
+      "id": "1324138244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1324138290",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "225 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "52.5",
+        "height:hub": "40",
+        "manufacturer": "Wind World",
+        "manufacturer:type": "W2500",
+        "name": "VTE Mravenečník",
+        "operator": "BENOCO, s.r.o.",
+        "power": "generator",
+        "rotor:diameter": "25",
+        "year_of_construction": "1993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1443501,
+          50.0848587
+        ]
+      },
+      "id": "1324138290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1324138349",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "630 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "60.5",
+        "height:hub": "40",
+        "manufacturer": "Vítkovice/ENERGOVARS",
+        "manufacturer:type": "EWT 630-1",
+        "name": "VTE Mravenečník",
+        "operational_status": "operational",
+        "operator": "BENOCO, s.r.o.",
+        "power": "generator",
+        "rotor:diameter": "41",
+        "year_of_construction": "1995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1446208,
+          50.0863647
+        ]
+      },
+      "id": "1324138349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1470774320",
+        "generator:output:electricity": "900 kW",
+        "generator:source": "wind",
+        "name": "PowerWind 56",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8580098,
+          53.1009146
+        ]
+      },
+      "id": "1470774320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1470781396",
+        "generator:output:electricity": "900 kW",
+        "generator:source": "wind",
+        "name": "PowerWind 56",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5215832,
+          54.2045251
+        ]
+      },
+      "id": "1470781396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1630203564",
+        "generator:source": "wind",
+        "name": "V 14872",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4060238,
+          51.5315543
+        ]
+      },
+      "id": "1630203564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1631610592",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "850 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "86 m",
+        "manufacturer": "Vestas",
+        "model": "V52",
+        "name": "V24959",
+        "power": "generator",
+        "ref": "V24959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3971756,
+          51.5334684
+        ]
+      },
+      "id": "1631610592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1631610927",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "R 80070",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4041287,
+          51.5343281
+        ]
+      },
+      "id": "1631610927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1631611244",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.0 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "100 m",
+        "manufacturer": "Vestas",
+        "model": "V80",
+        "name": "V26120",
+        "power": "generator",
+        "ref": "V26120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3961519,
+          51.5355533
+        ]
+      },
+      "id": "1631611244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1631611454",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "R 80059",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4000974,
+          51.5365952
+        ]
+      },
+      "id": "1631611454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1631611629",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "R 80071",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3959913,
+          51.5379237
+        ]
+      },
+      "id": "1631611629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1638293197",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "name": "V 70844",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3528285,
+          51.8833166
+        ]
+      },
+      "id": "1638293197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1644308625",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "historic": "technical_monument",
+        "name": "Windrad Libbenichen",
+        "note": "errichtet 1926, technisches Denkmal, außer Betrieb",
+        "power": "generator",
+        "wikidata": "Q2583957",
+        "wikipedia": "de:Windrad Libbenichen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4190231,
+          52.4864242
+        ]
+      },
+      "id": "1644308625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1745231177",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "Wiatrak - Okliny",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8316644,
+          54.3136578
+        ]
+      },
+      "id": "1745231177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1757614270",
+        "generator:source": "wind",
+        "name": "Elektrownia wiatrowa",
+        "power": "generator",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5891709,
+          51.7146882
+        ]
+      },
+      "id": "1757614270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1815959917",
+        "description": "tallest wind turbine in the world, until 2012",
+        "diameter:rotor": "90 m",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.5 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "205 m",
+        "height:hub": "160 m",
+        "image": "http://de.wikipedia.org/w/index.php?title=Datei:Windkraftanlage_Laasow.jpg",
+        "manufacturer": "Fuhrländer",
+        "model": "FL2500",
+        "name": "Windkraftanlage Laasow",
+        "operator": "Seeba Energy GmbH",
+        "power": "generator",
+        "ref": "FL379",
+        "source": "Bing",
+        "wikidata": "Q572845",
+        "wikipedia": "de:Windkraftanlage Laasow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1067998,
+          51.720884
+        ]
+      },
+      "id": "1815959917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1821133686",
+        "generator:output": "900kW",
+        "generator:source": "wind",
+        "name": "PowerWind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6616426,
+          53.3446693
+        ]
+      },
+      "id": "1821133686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1838583381",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "225 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "44.5",
+        "height:hub": "30",
+        "manufacturer": "Vestas",
+        "manufacturer:type": "V29-225",
+        "name": "VTE Velká Kraš",
+        "operator": "obec Velká Kraš",
+        "power": "generator",
+        "rotor:diameter": "29",
+        "year_of_construction": "1994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.112972,
+          50.3620457
+        ]
+      },
+      "id": "1838583381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1882970173",
+        "generator:source": "wind",
+        "name": "V 23312",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4819967,
+          51.7949153
+        ]
+      },
+      "id": "1882970173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1999956534",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.50 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height:hub": "100m",
+        "manufacturer": "Vensys",
+        "model": "77/1500",
+        "name": "VS 14",
+        "note": "ID-0014",
+        "power": "generator",
+        "ref": "VS14",
+        "rotor:diameter": "77m",
+        "source": "survey",
+        "start_date": "2008/08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1851129,
+          53.0894062
+        ]
+      },
+      "id": "1999956534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2093872885",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.8 MW",
+        "generator:source": "wind",
+        "height": "130 m",
+        "manufacturer": "Vestas",
+        "name": "VTE Horní Řasnice",
+        "operator": "Friendly energy s.r.o",
+        "power": "generator",
+        "start_date": "2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2126608,
+          50.9611158
+        ]
+      },
+      "id": "2093872885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2173380096",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "R999999",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6756221,
+          49.6149773
+        ]
+      },
+      "id": "2173380096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2173395913",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "R000001",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6882533,
+          49.6124818
+        ]
+      },
+      "id": "2173395913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2173400846",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "SWP",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6832202,
+          49.6082834
+        ]
+      },
+      "id": "2173400846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2200466173",
+        "generator:source": "wind",
+        "name": "Větrná elektrárna svatého Eliáše",
+        "operator": "Pravoslavná akademie Vilémov",
+        "power": "generator",
+        "source": "Bing",
+        "wikidata": "Q29345858"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.850696,
+          49.482855
+        ]
+      },
+      "id": "2200466173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2388050460",
+        "addr:city": "Zovoda",
+        "addr:housenumber": "16",
+        "addr:nostreet": "yes",
+        "addr:place": "Zovoda",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.25 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Zovodos VE",
+        "operator": "UAB Juodlita",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1667737,
+          54.3401053
+        ]
+      },
+      "id": "2388050460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2547510978",
+        "generator:source": "wind",
+        "name": "Elektrownia wiatrowa",
+        "power": "generator",
+        "source": "geoportal.gov.pl:ortofoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7811607,
+          49.8465049
+        ]
+      },
+      "id": "2547510978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2548832872",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "Elektrownia wiatrowa",
+        "power": "generator",
+        "source": "geoportal.gov.pl:ortofoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7844044,
+          49.8502132
+        ]
+      },
+      "id": "2548832872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2548832873",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "Elektrownia wiatrowa",
+        "power": "generator",
+        "source": "geoportal.gov.pl:ortofoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7916593,
+          49.8566121
+        ]
+      },
+      "id": "2548832873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2548832874",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "Elektrownia wiatrowa",
+        "power": "generator",
+        "source": "geoportal.gov.pl:ortofoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7882305,
+          49.8620552
+        ]
+      },
+      "id": "2548832874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2548832875",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "Elektrownia wiatrowa",
+        "power": "generator",
+        "source": "geoportal.gov.pl:ortofoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7885607,
+          49.8646419
+        ]
+      },
+      "id": "2548832875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2548832876",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "Elektrownia wiatrowa",
+        "power": "generator",
+        "source": "geoportal.gov.pl:ortofoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7872448,
+          49.8668477
+        ]
+      },
+      "id": "2548832876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2571121789",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "Wiktor",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5058855,
+          51.2112524
+        ]
+      },
+      "id": "2571121789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2587236541",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "WKA",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2824259,
+          51.6580459
+        ]
+      },
+      "id": "2587236541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2587784380",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "WKA",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2841931,
+          51.6505356
+        ]
+      },
+      "id": "2587784380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2625624939",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.50 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "100m",
+        "manufacturer": "Vensys",
+        "model": "Vensys 100",
+        "name": "VS 87",
+        "power": "generator",
+        "ref": "VS87",
+        "rotor:diameter": "100m",
+        "source": "survey",
+        "start_date": "2013/03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1862027,
+          53.0844395
+        ]
+      },
+      "id": "2625624939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2625624941",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.50 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height:hub": "100m",
+        "manufacturer": "Vensys",
+        "model": "Vensys 100",
+        "name": "VS 86",
+        "power": "generator",
+        "ref": "VS86",
+        "rotor:diameter": "100m",
+        "source": "survey",
+        "start_date": "2013/03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1857723,
+          53.0870649
+        ]
+      },
+      "id": "2625624941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2625624949",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.50 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "100m",
+        "manufacturer": "Vensys",
+        "model": "77/1500",
+        "name": "VS 15",
+        "note": "ID-0015",
+        "power": "generator",
+        "ref": "VS15",
+        "rotor:diameter": "77m",
+        "source": "survey",
+        "start_date": "2008/08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1870506,
+          53.0924605
+        ]
+      },
+      "id": "2625624949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2625624953",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.50 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "100m",
+        "manufacturer": "Vensys",
+        "model": "77/1500",
+        "name": "VS 16",
+        "note": "ID-0016",
+        "power": "generator",
+        "ref": "VS16",
+        "rotor:diameter": "77m",
+        "source": "survey",
+        "start_date": "2008/08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1892365,
+          53.0957655
+        ]
+      },
+      "id": "2625624953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2625624954",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.50 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height:hub": "100m",
+        "manufacturer": "Vensys",
+        "model": "77/1500",
+        "name": "VS 76",
+        "note": "ID-0076",
+        "power": "generator",
+        "ref": "VS76",
+        "rotor:diameter": "77m",
+        "source": "survey",
+        "start_date": "2011/12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1828845,
+          53.0958389
+        ]
+      },
+      "id": "2625624954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2625624966",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.50 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height:hub": "100m",
+        "manufacturer": "Vensys",
+        "model": "77/1500",
+        "name": "VS 17",
+        "note": "ID-0017",
+        "power": "generator",
+        "ref": "VS17",
+        "rotor:diameter": "77m",
+        "source": "survey",
+        "start_date": "2009/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1820942,
+          53.0980795
+        ]
+      },
+      "id": "2625624966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2668637169",
+        "generator:output:electricity": "yes",
+        "generator:plant": "output",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Modern wind mill",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4790176,
+          52.0004026
+        ]
+      },
+      "id": "2668637169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2668637170",
+        "generator:output:electricity": "yes",
+        "generator:plant": "output",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Modern wind mill",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4716975,
+          52.0012225
+        ]
+      },
+      "id": "2668637170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2770422793",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "name": "V 201910",
+        "operator": "Umweltgerechte Kraftanlagen Betriebsführung GmbH",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1652919,
+          51.5444226
+        ]
+      },
+      "id": "2770422793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2924018280",
+        "generator:source": "wind",
+        "name": "Turbina wiatrowa",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1682074,
+          51.7803874
+        ]
+      },
+      "id": "2924018280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2924018744",
+        "generator:source": "wind",
+        "name": "Turbina wiatrowa",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1687975,
+          51.7843367
+        ]
+      },
+      "id": "2924018744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2924022761",
+        "generator:source": "wind",
+        "name": "Turbina wiatrowa",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1658157,
+          51.7767045
+        ]
+      },
+      "id": "2924022761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2925275034",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Elektrownia wiatrowa",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8642856,
+          49.8750163
+        ]
+      },
+      "id": "2925275034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3005590767",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "name": "(niecz.)",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5023995,
+          54.2511187
+        ]
+      },
+      "id": "3005590767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3077969391",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Elektrownia wiatrowa",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2379811,
+          50.9463729
+        ]
+      },
+      "id": "3077969391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3077969411",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Elektrownia wiatrowa",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2438859,
+          50.9527184
+        ]
+      },
+      "id": "3077969411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3126548240",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "VTE1",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7989164,
+          50.5025682
+        ]
+      },
+      "id": "3126548240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3231281178",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "Turbina wiatrowa",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2944472,
+          53.0120477
+        ]
+      },
+      "id": "3231281178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3417240830",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Větrné elektrárny Kopřivná",
+        "power": "generator",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9626743,
+          50.0490166
+        ]
+      },
+      "id": "3417240830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3510668845",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Turbina wiatrowa",
+        "power": "generator",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7149508,
+          53.0334593
+        ]
+      },
+      "id": "3510668845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3744180881",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Elektrownia wiatrowa",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8654427,
+          49.8750251
+        ]
+      },
+      "id": "3744180881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4177390288",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "300 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Elektrownia wiatrowa Niszczewy/Zosin",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8285865,
+          52.7806988
+        ]
+      },
+      "id": "4177390288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4177392189",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "300 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Elektrownia wiatrowa Niszczewy/Zosin",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8290301,
+          52.7817862
+        ]
+      },
+      "id": "4177392189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4177392190",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "150 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Elektrownia wiatrowa Podzamcze",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8259236,
+          52.8453758
+        ]
+      },
+      "id": "4177392190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4177392191",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "150 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Elektrownia wiatrowa Podzamcze",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8265839,
+          52.8462182
+        ]
+      },
+      "id": "4177392191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4177392192",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "150 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Elektrownia wiatrowa Podzamcze",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8272013,
+          52.8470087
+        ]
+      },
+      "id": "4177392192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4177392193",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "150 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Elektrownia wiatrowa Podzamcze",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8278381,
+          52.8478063
+        ]
+      },
+      "id": "4177392193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4177392196",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Elektrownia wiatrowa Turzno 27",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7647581,
+          52.8329482
+        ]
+      },
+      "id": "4177392196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4489417184",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "manufacturer": "Vestas",
+        "model": "V90",
+        "name": "Vestas V90",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1702822,
+          53.4559067
+        ]
+      },
+      "id": "4489417184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5064141585",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "V 213764",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.275224,
+          51.6525861
+        ]
+      },
+      "id": "5064141585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5069212605",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2 MW",
+        "generator:source": "wind",
+        "manufacturer": "Vestas",
+        "name": "VTE Dětřichov u Frýdlantu",
+        "operator": "ActiveEnergo s.r.o.",
+        "power": "generator",
+        "start_date": "2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0285502,
+          50.870965
+        ]
+      },
+      "id": "5069212605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5436442756",
+        "description": "https://www.smartage.pl/niesamowita-turbina-wiatrowa-w-rebielicach-krolewskich/",
+        "disused": "yes",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "image": "https://photos.app.goo.gl/rmwZ9hPuLa641b7P7",
+        "name": "Wiatrak Józefa Antosa",
+        "power": "generator",
+        "ruins": "yes",
+        "source:geometry": "geoportal.gov.pl/isok",
+        "tourism": "attraction",
+        "url": "https://youtu.be/zlSxR4XvsFk",
+        "url:0": "https://youtu.be/eNw9YFJ7wB8",
+        "url:1": "https://youtu.be/SrWmZv7AKbg?si=-VMy6M2MvDxnywQs",
+        "url:2": "https://fotopolska.eu/60765,obiekt.html?map_z=15",
+        "wikidata": "Q2583657",
+        "wikimedia_commons": "File:Wind_turbine_in_Rebielice_Krolewskie.jpg",
+        "wikipedia": "en:Rębielice Królewskie Wind Turbine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.871575,
+          50.9977084
+        ]
+      },
+      "id": "5436442756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5684053121",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3,3 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "model": "Vestas V126",
+        "name": "WTG15",
+        "operator": "Wind Field Korytnica Sp. z o.o.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7720862,
+          52.3702817
+        ]
+      },
+      "id": "5684053121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5684053122",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3,3 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "model": "Vestas V126",
+        "name": "WTG34",
+        "operator": "Wind Field Korytnica Sp. z o.o.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7995727,
+          52.3654459
+        ]
+      },
+      "id": "5684053122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6184867792",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2400 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "199",
+        "height:hub": "141 m",
+        "manufacturer": "Nordex",
+        "model": "N117",
+        "name": "NX 84659",
+        "power": "generator",
+        "rotor:diameter": "117 m",
+        "start_date": "16.06.2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1060903,
+          51.7600406
+        ]
+      },
+      "id": "6184867792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6184867793",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2400 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "199",
+        "height:hub": "141 m",
+        "manufacturer": "Nordex",
+        "model": "N117",
+        "name": "NX 84658",
+        "power": "generator",
+        "rotor:diameter": "117 m",
+        "start_date": "09.06.2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1125868,
+          51.7594879
+        ]
+      },
+      "id": "6184867793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6697747510",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2200 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "150",
+        "height:hub": "95",
+        "manufacturer": "Vestas",
+        "manufacturer:type": "V110-2.2",
+        "name": "VTE Kobylá I.",
+        "operator": "VE Kobylá nad Vidnavkou, s.r.o.",
+        "power": "generator",
+        "rotor:diameter": "110",
+        "year_of_construction": "2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.109117,
+          50.3622746
+        ]
+      },
+      "id": "6697747510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7809975093",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "name": "NX 84657",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1046104,
+          51.764639
+        ]
+      },
+      "id": "7809975093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9287227644",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.225 MW",
+        "generator:source": "wind",
+        "name": "Cyrailės VE",
+        "operator": "UAB Navko",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2856402,
+          54.3067532
+        ]
+      },
+      "id": "9287227644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9588260733",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "manufacturer": "Vestas",
+        "model": "V90",
+        "name": "V33261/RB10",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7741659,
+          51.1403961
+        ]
+      },
+      "id": "9588260733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9588260734",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "manufacturer": "Vestas",
+        "model": "V90",
+        "name": "V33260/RB09",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7697653,
+          51.1387063
+        ]
+      },
+      "id": "9588260734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9588260735",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "manufacturer": "Vestas",
+        "model": "V90",
+        "name": "V32995/RB11",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7760616,
+          51.1407394
+        ]
+      },
+      "id": "9588260735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9700447580",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "manufacturer": "Vestas",
+        "manufacturer:type": "V110",
+        "name": "G14",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4140165,
+          53.608116
+        ]
+      },
+      "id": "9700447580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9700447581",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "manufacturer": "Vestas",
+        "manufacturer:type": "V110",
+        "name": "G15",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4176815,
+          53.612768
+        ]
+      },
+      "id": "9700447581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9700447582",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "manufacturer": "Vestas",
+        "manufacturer:type": "V110",
+        "name": "G16",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4227293,
+          53.6227079
+        ]
+      },
+      "id": "9700447582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9700447583",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "manufacturer": "Vestas",
+        "manufacturer:type": "V110",
+        "name": "G17",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4308465,
+          53.6204584
+        ]
+      },
+      "id": "9700447583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9700447584",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "manufacturer": "Vestas",
+        "manufacturer:type": "V110",
+        "name": "G18",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4409114,
+          53.6190593
+        ]
+      },
+      "id": "9700447584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9700447585",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "manufacturer": "Vestas",
+        "manufacturer:type": "V110",
+        "name": "G24",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4137154,
+          53.6018024
+        ]
+      },
+      "id": "9700447585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9700447586",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "manufacturer": "Vestas",
+        "manufacturer:type": "V110",
+        "name": "G13",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4030467,
+          53.5976727
+        ]
+      },
+      "id": "9700447586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9717305782",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "65 m",
+        "manufacturer": "Enercon",
+        "model": "E66",
+        "name": "E70028-03L7",
+        "power": "generator",
+        "ref": "E70028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9642471,
+          51.2025197
+        ]
+      },
+      "id": "9717305782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9717305783",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "65 m",
+        "manufacturer": "Enercon",
+        "model": "E66",
+        "name": "E70027-01L9",
+        "power": "generator",
+        "ref": "E70027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9767469,
+          51.1945005
+        ]
+      },
+      "id": "9717305783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9717305784",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "65 m",
+        "manufacturer": "Enercon",
+        "model": "E66",
+        "name": "E70025-02L8",
+        "power": "generator",
+        "ref": "E70025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9723965,
+          51.1949804
+        ]
+      },
+      "id": "9717305784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11638909524",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T13",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T13",
+        "power": "generator",
+        "ref": "T13",
+        "rotor:diameter": "116.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0981722,
+          50.1143444
+        ]
+      },
+      "id": "11638909524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11638909525",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T9",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T9",
+        "power": "generator",
+        "ref": "T9",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-02-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0927353,
+          50.1201286
+        ]
+      },
+      "id": "11638909525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11644720002",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T8",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T8",
+        "power": "generator",
+        "ref": "T8",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-02-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1068361,
+          50.1117083
+        ]
+      },
+      "id": "11644720002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11644749991",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T12",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T12",
+        "power": "generator",
+        "ref": "T12",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-05-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1457278,
+          50.1133778
+        ]
+      },
+      "id": "11644749991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11644749992",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T10",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T10",
+        "power": "generator",
+        "ref": "T10",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-05-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1348972,
+          50.1200306
+        ]
+      },
+      "id": "11644749992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11645441722",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T7",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T7",
+        "power": "generator",
+        "ref": "T7",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-04-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1143528,
+          50.1169503
+        ]
+      },
+      "id": "11645441722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11645798624",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T6",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T6",
+        "power": "generator",
+        "ref": "T6",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-04-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1092179,
+          50.1060458
+        ]
+      },
+      "id": "11645798624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11645798625",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T5",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T5",
+        "power": "generator",
+        "ref": "T5",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-03-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.120339,
+          50.1031889
+        ]
+      },
+      "id": "11645798625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11645798626",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T4",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T4",
+        "power": "generator",
+        "ref": "T4",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-03-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1255021,
+          50.0999634
+        ]
+      },
+      "id": "11645798626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11646285974",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T1",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T1",
+        "power": "generator",
+        "ref": "T1",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-06-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1362972,
+          50.0794333
+        ]
+      },
+      "id": "11646285974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11646649553",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T2",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T2",
+        "power": "generator",
+        "ref": "T2",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-06-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1265,
+          50.0785083
+        ]
+      },
+      "id": "11646649553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11646804745",
+        "description": "Farma wiatrowa Racibórz (FEN I) - Turbina T3",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T3",
+        "power": "generator",
+        "ref": "T3",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-06-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1298333,
+          50.0838611
+        ]
+      },
+      "id": "11646804745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11646809910",
+        "description": "Farma wiatrowa Racibórz (FEN I)",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.2 MW",
+        "generator:source": "wind",
+        "generator:type": "wind_turbine",
+        "height": "199.4",
+        "height:hub": "141",
+        "manufacturer": "Nordex",
+        "name": "Turbina wiatrowa T11",
+        "power": "generator",
+        "ref": "T11",
+        "rotor:diameter": "116.8",
+        "start_date": "2024-06-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1404474,
+          50.0890294
+        ]
+      },
+      "id": "11646809910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11860936069",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.5 MW",
+        "generator:source": "wind",
+        "height": "77",
+        "manufacturer": "Wikov",
+        "name": "VTE Krásný Les",
+        "operator": "Ecoenergy - Krásný les s.r.o.",
+        "power": "generator",
+        "start_date": "2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1554207,
+          50.9294781
+        ]
+      },
+      "id": "11860936069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12130343780",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "height:hub": "132 m",
+        "manufacturer": "Vensys",
+        "model": "VS136",
+        "name": "VS321_PL_DRC_I01",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.639417,
+          52.452306
+        ]
+      },
+      "id": "12130343780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12130343781",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "height:hub": "132 m",
+        "manufacturer": "Vensys",
+        "model": "VS136",
+        "name": "VS322_PL_DRC_I02",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.645222,
+          52.448972
+        ]
+      },
+      "id": "12130343781"
+    }
+  ]
+}
